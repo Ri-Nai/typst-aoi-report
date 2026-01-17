@@ -10,7 +10,7 @@
   set page(
     paper: "a4",
     columns: 1,
-    margin: (x: 3cm, y: 3cm),
+    margin: (x: 2.5cm, y: 2.5cm),
     numbering: "1",
   )
 
