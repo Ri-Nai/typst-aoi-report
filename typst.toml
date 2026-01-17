@@ -1,11 +1,11 @@
 [package]
-name = "rain-report"
+name = "aoi-report"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["Ri-Nai"]
 license = "MIT"
 description = "A Typst template for creating academic reports with themes, cover layouts, and document patterns."
-repository = "https://github.com/Ri-Nai/rain-report"
+repository = "https://github.com/Ri-Nai/aoi-report"
 keywords = ["report", "template", "academic", "document", "theme", "cover"]
 categories = ["template", "layout", "theme", "academic"]
 

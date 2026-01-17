@@ -1,4 +1,4 @@
-#import "@rain-report/lib.typ": *
+#import "@aoi-report/lib.typ": *
 
 #show: theme
 
