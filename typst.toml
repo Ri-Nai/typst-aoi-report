@@ -1,0 +1,14 @@
+[package]
+name = "rain-report"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Ri-Nai"]
+license = "MIT"
+description = "A Typst template for creating academic reports with themes, cover layouts, and document patterns."
+repository = "https://github.com/Ri-Nai/rain-report"
+keywords = ["report", "template", "academic", "document", "theme", "cover"]
+categories = ["template", "layout", "theme", "academic"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"

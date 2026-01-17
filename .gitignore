@@ -1,0 +1,10 @@
+.DS_Store
+
+# Typst outputs
+*.pdf
+*.png
+*.svg
+
+# Build artifacts
+out/
+build/
