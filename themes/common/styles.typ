@@ -157,8 +157,8 @@
   // Headings
   show table.cell: it => {
     if it.y == 0 {
-      set text(fill: white, weight: "bold")
-      it
+      show strong: set text(fill: colors.white)
+      strong(it)
     } else { it }
   }
 
@@ -167,6 +167,10 @@
     align: center,
     fill: (x, y) => if y == 0 { colors.sea } else { white },
   )
+
+  show table: it => {
+    it
+  }
   body
 }
 
